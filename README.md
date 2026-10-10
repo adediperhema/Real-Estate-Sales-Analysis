@@ -72,12 +72,12 @@ A direct regional balance table mapping deployed capital against real asset valu
 
 |**Town**|**Sum of Purchase Value**|**Sum of Market Value**|**Net Variance (Deficit)**|
 |-|-|-|-|
-|New London|135M|89M|-46M|
-|Berlin|113M|61M|-52M|
-|Washington|79M|39M|-40M|
-|Burlington|65M|31M|-32M|
-|Coventry|55M|28M|-27M|
-|Derby|51M|27M|-24M|
+|New London|135M|89M|(46M)|
+|Berlin|113M|61M|(52M)|
+|Washington|79M|39M|(40M)|
+|Burlington|65M|31M|(32M)|
+|Coventry|55M|28M|(27M)|
+|Derby|51M|27M|(24M)|
 
 
 
