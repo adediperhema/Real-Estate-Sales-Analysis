@@ -10,7 +10,7 @@ The objective of this project is to conduct a comprehensive analysis of Real Est
 
 
 
-##### 1\. Key Performance Indicators Summary
+## 1\. Key Performance Indicators Summary
 
 It consolidates high-level portfolio performance variables across four key primary metric definitions:
 
@@ -32,11 +32,11 @@ It consolidates high-level portfolio performance variables across four key prima
 
 
 
-##### 2\. Chart-by-Chart Analysis
+## 2\. Chart-by-Chart Analysis
 
 
 
-###### 2.1 Sales Profit Analysis (Stacked Column Chart)
+### 2.1 Sales Profit Analysis (Stacked Column Chart)
 
 
 
@@ -54,7 +54,7 @@ This chart breaks down the Sum of Purchase Value grouped dynamically by Town and
 
 
 
-###### 2.2 Daily Trend (Column Chart)
+### 2.2 Daily Trend (Column Chart)
 
 
 
@@ -62,7 +62,7 @@ Tracks the temporal progression of Sales Ratio over a standard 29-day baseline i
 
 
 
-###### 2.3 Portfolio Discrepancy Matrix
+### 2.3 Portfolio Discrepancy Matrix
 
 A direct regional balance table mapping deployed capital against real asset valuations:
 
@@ -80,14 +80,14 @@ A direct regional balance table mapping deployed capital against real asset valu
 |Derby|51M|27M|(24M)|
 
 
-## Real Estate Portfolio Performance Analysis Dashboard
+### Real Estate Portfolio Performance Analysis Dashboard
 <img width="1251" height="740" alt="Real Estate Sales Performance Analysis Dashboard" src="https://github.com/user-attachments/assets/bdf2c0d1-9535-460e-b20a-85a906e71c6f" />
 
 
 
 
 
-##### 3\. Key Insights \& Strategic Recommendations
+## 3\. Key Insights \& Strategic Recommendations
 
 Vacant Land Asset Over-exposure: The investment base exposes severe visual concentration risk inside the Vacant Land categorization. 
 
