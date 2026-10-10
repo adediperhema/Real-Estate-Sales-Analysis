@@ -80,6 +80,8 @@ A direct regional balance table mapping deployed capital against real asset valu
 |Derby|51M|27M|(24M)|
 
 
+## Real Estate Portfolio Performance Analysis Dashboard
+<img width="1251" height="740" alt="Real Estate Sales Performance Analysis Dashboard" src="https://github.com/user-attachments/assets/bdf2c0d1-9535-460e-b20a-85a906e71c6f" />
 
 
 
