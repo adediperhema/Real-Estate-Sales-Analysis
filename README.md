@@ -87,7 +87,9 @@ A direct regional balance table mapping deployed capital against real asset valu
 
 ##### 3\. Key Insights \& Strategic Recommendations
 
-Vacant Land Asset Over-exposure: The investment base exposes severe visual concentration risk inside the Vacant Land categorization. Excluding the core baseline revenue generated in New London and Berlin, peripheral regions show total structural reliance on non-developed fields. 
+Vacant Land Asset Over-exposure: The investment base exposes severe visual concentration risk inside the Vacant Land categorization. 
+
+Excluding the core baseline revenue generated in New London and Berlin, peripheral regions show total structural reliance on non-developed fields. 
 
 Active rebalancing into multi-family residential or multi-tenant commercial structures is heavily advised to capture liquid yield channels.
 
